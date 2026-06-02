@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  backend:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./model:/app/model   # model .h5 tidak ikut di-build, mount langsung
+    environment:
+      - TF_CPP_MIN_LOG_LEVEL=2   # suppress warning TensorFlow
+    restart: unless-stopped
