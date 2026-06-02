@@ -1,0 +1,22 @@
+[
+  { "name": "Sisa sayuran", "category": "O", "green_brown": "Green", "cn_ratio": 15, "tips": "Cacah kecil sebelum dikomposi", "decompose_days": 14 },
+  { "name": "Kulit buah", "category": "O", "green_brown": "Green", "cn_ratio": 15, "tips": "Hindari kulit jeruk terlalu banyak, lambat terurai", "decompose_days": 21 },
+  { "name": "Sisa nasi", "category": "O", "green_brown": "Green", "cn_ratio": 10, "tips": "Jangan terlalu basah, campur Brown agar tidak bau", "decompose_days": 7 },
+  { "name": "Ampas kopi", "category": "O", "green_brown": "Green", "cn_ratio": 20, "tips": "Bagus untuk mengundang cacing tanah", "decompose_days": 14 },
+  { "name": "Daun segar", "category": "O", "green_brown": "Green", "cn_ratio": 20, "tips": "Cacah agar lebih cepat terurai", "decompose_days": 21 },
+  { "name": "Rumput potong", "category": "O", "green_brown": "Green", "cn_ratio": 17, "tips": "Jangan tumpuk terlalu tebal, bisa menggumpal", "decompose_days": 14 },
+  { "name": "Daun kering", "category": "O", "green_brown": "Brown", "cn_ratio": 60, "tips": "Baik sebagai lapisan karbon, remukkan dulu", "decompose_days": 30 },
+  { "name": "Kardus", "category": "O", "green_brown": "Brown", "cn_ratio": 350, "tips": "Sobek kecil-kecil dan basahi sebelum dikomposi", "decompose_days": 60 },
+  { "name": "Jerami", "category": "O", "green_brown": "Brown", "cn_ratio": 80, "tips": "Potong pendek agar lebih cepat terurai", "decompose_days": 45 },
+  { "name": "Serbuk gergaji", "category": "O", "green_brown": "Brown", "cn_ratio": 400, "tips": "Gunakan sedikit saja, terlalu banyak memperlambat", "decompose_days": 90 },
+  { "name": "Kertas koran", "category": "R", "green_brown": null, "cn_ratio": null, "tips": "Bisa didaur ulang di bank sampah", "decompose_days": null },
+  { "name": "Botol plastik", "category": "R", "green_brown": null, "cn_ratio": null, "tips": "Bersihkan dulu sebelum ke tempat daur ulang", "decompose_days": null },
+  { "name": "Kaleng aluminium", "category": "R", "green_brown": null, "cn_ratio": null, "tips": "Bernilai jual tinggi di pengepul", "decompose_days": null },
+  { "name": "Botol kaca", "category": "R", "green_brown": null, "cn_ratio": null, "tips": "Bawa ke bank sampah atau pengepul kaca", "decompose_days": null },
+  { "name": "Kardus bersih", "category": "R", "green_brown": null, "cn_ratio": null, "tips": "Pastikan tidak basah atau berminyak", "decompose_days": null },
+  { "name": "Plastik kresek", "category": "N", "green_brown": null, "cn_ratio": null, "tips": "Tidak bisa dikomposter maupun didaur ulang biasa", "decompose_days": null },
+  { "name": "Styrofoam", "category": "N", "green_brown": null, "cn_ratio": null, "tips": "Hindari pembakaran, buang ke TPA", "decompose_days": null },
+  { "name": "Popok bekas", "category": "N", "green_brown": null, "cn_ratio": null, "tips": "Buang ke TPA, tidak bisa diproses ulang", "decompose_days": null },
+  { "name": "Baterai bekas", "category": "N", "green_brown": null, "cn_ratio": null, "tips": "Berbahaya, bawa ke drop point khusus limbah B3", "decompose_days": null },
+  { "name": "Kemasan sachet", "category": "N", "green_brown": null, "cn_ratio": null, "tips": "Multilayer, tidak bisa didaur ulang biasa", "decompose_days": null }
+]
